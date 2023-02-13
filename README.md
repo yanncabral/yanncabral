@@ -9,7 +9,7 @@ I'm a passionate Software Engineer based in Brazil. I have a strong background i
 Primarly working with Flutter + Firebase + .NET Tech!
 
 
-## My current status
+## ⚡️ My current status
 
 🔭 I’m currently working on Flutter Applications and Open Source Packages!
 
