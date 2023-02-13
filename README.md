@@ -9,7 +9,7 @@ I'm a passionate Software Engineer based in Brazil. I have a strong background i
 Primarly working with Flutter + Firebase + .NET Tech!
 
 
-## Other Common Github Profile Sections
+## My current status
 
 🔭 I’m currently working on Flutter Applications and Open Source Packages!
 
@@ -22,6 +22,7 @@ Primarly working with Flutter + Firebase + .NET Tech!
 ⚡ Fun fact: I love playing the guitar!
 
 📫 How to reach me: LinkedIn, Portifolio
+
 ## 🛠 Skills
 
 * Flutter
