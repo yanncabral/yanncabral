@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer based in Brazil. I have a strong background in creating high-quality, user-friendly mobile applications that provide an excellent user experience. My expertise in Flutter, Dart, and various other technologies has enabled me to develop apps that are not only visually appealing but also robust and efficient.
+I'm a passionate Software Engineer based in Brazil 🇧🇷. I have a strong background in creating high-quality, user-friendly mobile applications that provide an excellent user experience. My expertise in Flutter, Dart, and various other technologies has enabled me to develop apps that are not only visually appealing but also robust and efficient.
 
 Primarly working with Flutter + Firebase + .NET Tech!
 
