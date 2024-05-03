@@ -1,6 +1,6 @@
 # Hello, I'm Yann Cabral! 👋
 
-I am a Product & Software Engineer at Transfero in Rio de Janeiro, Brazil 🇧🇷
+I am a UI & Software Engineer at Transfero in Rio de Janeiro, Brazil 🇧🇷
 
 ฿ Currently working on the web3 ecosystem.
 
