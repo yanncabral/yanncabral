@@ -1,8 +1,8 @@
 # Hello, I'm Yann Cabral! 👋
 
-I am a UI & Software Engineer at Transfero in Rio de Janeiro, Brazil 🇧🇷
+I am a UI & Software Engineer at Stone in Rio de Janeiro, Brazil 🇧🇷
 
-฿ Currently working on the web3 ecosystem.
+฿ Currently working on the financial ecosystem.
 
 🇪🇸 Learning Spanish.
 
@@ -10,7 +10,7 @@ I am a UI & Software Engineer at Transfero in Rio de Janeiro, Brazil 🇧🇷
 
 🧑‍💻 Looking to collaborate on open-source projects.
 
-💬 Ask me about Flutter & UI Design.
+💬 Ask me about Front-End & UI Design.
 
 ⚡ Fun fact: I love playing the guitar!
 
